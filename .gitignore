@@ -1,0 +1,10 @@
+# Morph config files and directories
+.gitconifg
+.morph
+node_modules
+
+**/__pycache__/**
+
+*.local
+*.pyc
+*.pyo
