@@ -2,3 +2,4 @@ morph-data==0.2.0rc1
 langchain
 langchain-openai
 plotly
+langchain_groq

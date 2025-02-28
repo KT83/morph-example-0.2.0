@@ -6,5 +6,6 @@ node_modules
 **/__pycache__/**
 
 *.local
+.env
 *.pyc
 *.pyo
